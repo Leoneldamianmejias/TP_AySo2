@@ -1,0 +1,363 @@
+whoami
+pwd
+exit
+ls
+cd repogit
+ls
+cd leonel_vagrant/
+ls
+git status
+ls
+git status
+git commit -m "Mi primer commit"
+git status
+git push
+echo
+echo "hola"
+cat << FIN > archivo2.txt
+linea 1 
+linea 2
+linea 3
+FIN
+
+git status
+git push
+git add
+git status
+git commit -m "hola"
+git add
+git status
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep -i proce
+history
+history16
+echo "hola"
+cat/etc/passwd
+cat/etc/passwd|sort
+cat/etc/passwd | sort
+cat/etc/shadow
+cd ..
+cat/etc/passwd | sort
+cat /etc/passwd
+cat /etc/shadow
+sudo
+sudo cat /etc/shadow
+exit
+ls - la
+ls -la
+ssh-keygen -t ed25519
+cd .ssh
+ls
+cat id_ed25519.pub
+cd ..
+ls
+cd repogit
+ls
+git clone [200~git@github.com:Leoneldamianmejias/leonel_vagrant.git~
+ls
+cd ..
+ls
+cd repogit
+ls
+git clone git@github.com:Leoneldamianmejias/leonel_vagrant.git
+ls
+cd leonel_vagrant/
+ls
+history
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+ls
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd .ssh
+ls
+cat id_ed25519.pub
+ls
+cd ..
+ls
+cd repogit
+mkdir repogit 
+ls
+cd repogit
+ls
+git clone git@github.com:Leoneldamianmejias/TP_AaySO.git
+pwd
+ls
+cd TP_AaySO/
+PWD
+pwd
+ls -l
+cat /etc/os-release
+cat -i grep home_url /etc/os-release
+cat -i man grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)">datos_usuario.txt
+ls
+git config --global user.email "leocarp277@gmail.com"
+git config --global user.name "leoneldamianmejias"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+git add
+git add .
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+ls
+git status
+grep
+cat /proc/infocpu
+cat /proc/infcpu
+cat /proc/cpuinfo
+grep -i model/proc/cpuinfo
+grep -i model /proc/cpuinfo
+grep tail -n10 -i model  /proc/cpuinfo
+grep tail-n1 -i model  /proc/cpuinfo
+grep tail-n20 -i model  /proc/cpuinfo
+grep -i model tail -n10 /proc/cpuinfo
+grep -i model tail -n5 /proc/cpuinfo
+grep -i model tail /proc/cpuinfo
+sort -i model /proc/cpuinfo
+sort 5 -i model /proc/cpuinfo
+sort n5 -i model /proc/cpuinfo
+sort -n5 -i model /proc/cpuinfo
+cat /proc/cpuinfo | shor -n5
+cat /proc/cpuinfo | grep -n5 
+cat /proc/cpuinfo | grep -n5 model
+cat /proc/cpuinfo | head -n5 model
+cat /proc/cpuinfo | head -n5 -i model
+cat /proc/cpuinfo | head -i model
+cat /proc/cpuinfo | grep -i model
+cat /proc/cpuinfo | grep -i model | tail -n5 
+cat /proc/cpuinfo | grep -i model | head -n5 
+cat /proc/cpuinfo | grep -i model name | head -n5 
+cat /proc/cpuinfo | grep -i model | head -n5 | grep -i name
+cat /proc/cpuinfo | grep -i model | head -n2 | grep -i name
+cat /proc/cpuinfo | grep -i model | head -n2 | grep -i name >> datos_usuario.txt 
+cat /etc/passwd
+cat /etc/passwd | head -n10
+cat /etc/passwd | head -n5
+cat /etc/passwd | head -n6
+cat /etc/passwd | head -n10
+cat /etc/passwd | head -n10 > lista_ordenada.txt
+ls
+lista_ordenada.txt >> datos_usuario.txt 
+echo lista_ordenada.txt >> datos_usuario.txt 
+cat datos_usuario.txt 
+ls
+cat lista_ordenada.txt 
+cat datos_usuario.txt 
+cat /etc/passwd | head -i nologin
+cat /etc/passwd | grep -i nologin
+cat /etc/passwd | grep  nologin
+cat /etc/passwd | grep -n nologin
+cat /etc/passwd | head -n10 | grep -v nologin | grep -i nologin
+cat /etc/passwd | grep -v nologin | grep -i nologin
+cat /etc/passwd | grep -v nologin | grep -i nologin | grep -n
+cat /etc/passwd | grep -v nologin | grep -i nologin | grep 
+cat /etc/passwd | grep -v nologin | grep -i nologin  
+cat /etc/passwd | grep -v nologin  
+cat /etc/passwd | grep -v nologin | head -n10 
+cat /etc/passwd | grep -v nologin | head -n10 > lista_ordenada.txt 
+echo lista_ordenada.txt > datos_usuario.txt 
+cat /proc/cpuinfo | grep -i model | head -n2 | grep -i name >> datos_usuario.txt 
+cat datos_usuario.txt 
+echo "Usuario=$(whoami)">>datos_usuario.txt
+cd datos_usuario.txt
+ls
+cd datos_usuario.txt
+ls -l
+git status
+git add .
+git status
+git push
+cat /proc/cpuinfo | grep -i model | head -n2 | grep -i name >> datos_usuario.txt 
+cat /etc/passwd | grep -v nologin | head -n10 > lista_ordenada.txt 
+ls
+cat datos_usuario.txt 
+exit
+ssh-keygen
+ls
+rm -r repogit/
+ls
+sudo rm -r repogit/
+ls
+mkdir repogit
+pwd
+sudo rm -r repogit/
+cd ..
+pwd
+ls
+mkdir repogit
+sudo mkdir repogit
+ls
+cd vagrant/
+git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+ls
+pwd
+ls
+ls -l
+cd TP_AySo2/
+pwd
+cd ..
+ls
+cd ..
+ls
+$HOME/repogit/ git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+sudo rm -r repogit/
+ls
+cd vagrant/
+ls
+cd ..
+sudo mkdir repogit
+ls
+cd repogit/
+ls
+git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+sudo git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+ls
+sudo git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+ls
+cd ..
+sudo rm -r repogit/
+ls
+cd vagrant/
+ls
+cd TP_AySo2/
+ls
+cd ..
+git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+sudo git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+pwd
+ls
+sudo mkdir repogit
+ls
+cd repogit/
+ls
+pwd
+sudo git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+exit
+ls
+ssh-keygen
+ls
+pwd
+cd repogit/
+git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+sudo git clone git@github.com:Leoneldamianmejias/TP_AySo2.git
+ls
+cd ..
+ls
+cat /etc/os-release
+man grep
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt 
+git status
+git add.
+git add .
+ls
+datos_usuario.txt > TP_AySo2/
+ls
+cd TP_AySo2/
+ls
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git status
+git add .
+[200~git config --global user.email "TU-email"
+~git config --global user.email "leocarp277@gmail.com"
+git config --global user.name "leoneldamianmejias"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt 
+cat /etc/passwd
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+git status
+cat -v nologin /etc/passwd 
+clear
+cat -v nologin /etc/passwd 
+clear 
+cat -v nologin /etc/passwd > lista_ordenada
+cat grep -v nologin /etc/passwd
+grep -v nologin /etc/passwd > lista_ordenada
+cat lista_ordenada 
+clear
+sort lista_ordenada -t":" -k7
+grep -v nologin /etc/passwd | sort lista_ordenada -t":" -k7 > lista_ordenada 
+cat lista_ordenada 
+cat lista 
+cat lista_ordenada 
+ls
+cd lista_ordenada
+grep -v nologin /etc/passwd | sort lista_ordenada -t":" -k7 > lista_ordenada 
+cat lista_ordenada 
+sort lista_ordenada -t":" -k7
+grep -v nologin /etc/passwd > lista_ordenada
+cat lista_ordenada 
+sort lista_ordenada -t":" -k7
+clear
+sort lista_ordenada -t":" -k7
+sort lista_ordenada -t":" -k7 > lista_ordenada
+cat lista_ordenada 
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+ls
+cat lista_ordenada 
+git status
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+apropos "dump traffic"
+sudo apropos "dump traffic"
+apropos "dump traffic" tcpdump
+echo apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+apropos
+apropos "dump traffic"
+help
+help apropos
+info apropos
+apropos -d dump traffic
+apropos dump traffic
+apropos dump_traffic
+apropos -d dump traffic
+apropos -d "dump traffic"
+clear
+apropos -d dump traffic
+celar
+clear
+tcpdump
+apropos "dump traffic"
+apropos "dump traffic" tcpdumo
+apropos tcpdump
+apropos "dump traffic" > comando_dump_net
+ls
+cat comando_dump_net 
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+cat <<FIN>>README.md
+Alumno: Leonel damian mejias
+División: 113
+Turno: Mañana
+
+
+ls
+cat comando_dump_net 
+cat README.md 
+history -a
+history -a $HOME/.bash_history
